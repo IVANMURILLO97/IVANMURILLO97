@@ -40,5 +40,5 @@ Currently building out my portfolio with end-to-end data projects using real-wor
 
 ## 📫 Let's Connect
 - Los Angeles, CA  
-- [Email Me](mailto:ivanmurillo097@outlook.com)  
+- [Email Me](ivanmurillo097@outlook.com)  
 - [Tableau Public](https://public.tableau.com/app/profile/ivan.murillo6366/vizzes
