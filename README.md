@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Ivan Murillo!
 
-<!--
-**IVANMURILLO97/IVANMURILLO97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Business Analyst | Tableau Enthusiast | SQL Explorer**
 
-Here are some ideas to get you started:
+I'm passionate about transforming raw data into actionable insights through visualization, storytelling, and hands-on analytics.  
+Currently building out my portfolio with end-to-end data projects using real-world datasets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tools & Technologies
+**Data Viz**: Tableau, Power BI, Excel  
+**Languages**: SQL, Python (learning)  
+**Workflow**: Git, Jupyter Notebooks, Tableau Public  
+
+---
+
+## 📁 Highlight Projects
+
+### **Zomato Restaurant Insights Dashboard** | *Tableau & SQL* | *2024*
+- Analyzed restaurant reviews, cuisine trends, and delivery performance using structured queries and visual dashboards.
+- Created calculated fields and interactive filters to explore average ratings, customer feedback patterns, and cuisine popularity.
+- Built dynamic dashboards for stakeholder insights on top-performing restaurant types and user engagement behavior.
+
+### **Airbnb Market Analysis** | *Google Sheets* | *12/2024*
+- Cleaned and standardized Airbnb listing data to improve pivot table analysis.
+- Used calculated fields and pivot tables to estimate rental revenue and identify top neighborhoods and property types.
+- Created a new metric for “top listings” and projected annual revenue to help stakeholders identify high-yield investment properties.
+
+### **Superstore Profitability Analysis** | *Tableau* | *03/2024*
+- Built interactive dashboards to evaluate profit/loss segments by subcategory and region.
+- Recommended cost-saving strategies and advertising optimizations using calculated fields and dashboard filters.
+- Used LEFT JOINs and return rate analysis to reduce product returns and optimize performance.
+
+### **Shopify App Analysis** | *Power BI* | *04/2024*
+- Developed a multi-page Power BI dashboard analyzing app reviews, ratings, and developer performance.
+- Used DAX formulas to create custom metrics like weighted review scores and engagement rates.
+- Provided insights for high-performing apps and flagged underperformers based on user feedback and usage trends.
+
+---
+
+## 📫 Let's Connect
+- Los Angeles, CA  
+- [Email Me](mailto:ivanmurillo097@outlook.com)  
+- [Tableau Public](https://public.tableau.com/app/profile/ivan.murillo6366/vizzes
