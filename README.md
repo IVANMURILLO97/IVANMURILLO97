@@ -10,7 +10,7 @@ Currently building out my portfolio with end-to-end data projects using real-wor
 ## 🔧 Tools & Technologies
 **Data Viz**: Tableau, Power BI, Excel  
 **Languages**: SQL, Python (learning)  
-**Workflow**: Git, Jupyter Notebooks, Tableau Public  
+**Workflow**: Git, Tableau Public  
 
 ---
 
