@@ -16,22 +16,22 @@ Currently building out my portfolio with end-to-end data projects using real-wor
 
 ## 📁 Highlight Projects
 
-### **Zomato Restaurant Insights Dashboard** | *Tableau & SQL* | *2024*
+### **Zomato Restaurant Insights Dashboard** | *Tableau & SQL* | *2025*
 - Analyzed restaurant reviews, cuisine trends, and delivery performance using structured queries and visual dashboards.
 - Created calculated fields and interactive filters to explore average ratings, customer feedback patterns, and cuisine popularity.
 - Built dynamic dashboards for stakeholder insights on top-performing restaurant types and user engagement behavior.
 
-### **Airbnb Market Analysis** | *Google Sheets* | *12/2024*
+### **Airbnb Market Analysis** | *Google Sheets* | *12/2025*
 - Cleaned and standardized Airbnb listing data to improve pivot table analysis.
 - Used calculated fields and pivot tables to estimate rental revenue and identify top neighborhoods and property types.
 - Created a new metric for “top listings” and projected annual revenue to help stakeholders identify high-yield investment properties.
 
-### **Superstore Profitability Analysis** | *Tableau* | *03/2024*
+### **Superstore Profitability Analysis** | *Tableau* | *03/2025*
 - Built interactive dashboards to evaluate profit/loss segments by subcategory and region.
 - Recommended cost-saving strategies and advertising optimizations using calculated fields and dashboard filters.
 - Used LEFT JOINs and return rate analysis to reduce product returns and optimize performance.
 
-### **Shopify App Analysis** | *Power BI* | *04/2024*
+### **Shopify App Analysis** | *Power BI* | *04/2025*
 - Developed a multi-page Power BI dashboard analyzing app reviews, ratings, and developer performance.
 - Used DAX formulas to create custom metrics like weighted review scores and engagement rates.
 - Provided insights for high-performing apps and flagged underperformers based on user feedback and usage trends.
