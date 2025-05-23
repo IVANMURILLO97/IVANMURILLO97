@@ -13,7 +13,7 @@ Currently building out my portfolio with end-to-end data projects using real-wor
 **Workflow**: Git, Tableau Public  
 ## Table of Contents
 
-1. [Zomato Restaurant Insights Dashboard](https://github.com/IVANMURILLO97/Data_projects_TripleTen/tree/main/Zomato_Project)
+1. [Zomato Restaurant Insights Dashboard](https://public.tableau.com/app/profile/ivan.murillo6366/viz/Final_ProjectDashboard_17472905145140/RestaurantPerformanceDashboard-SalesAOVRatingsOverview)
 22. [Airbnb Market Analysis](https://github.com/IVANMURILLO97/Data_projects_TripleTen/tree/main/Airbnb_Project) - [Google Sheets](https://docs.google.com/spreadsheets/d/17LRWp88BdT2FkGr-UXj7gqLOLJJUUD7-oPJJa62E56gc/edit?usp=sharing)
 3. [Superstore Profitability Analysis – Tableau Public Profile](https://public.tableau.com/app/profile/ivan.murillo6366/vizzes)
 4. [Shopify App Analysis](https://github.com/IVANMURILLO97/Data_projects_TripleTen/tree/main/Shopify_Project)
