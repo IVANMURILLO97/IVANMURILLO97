@@ -11,7 +11,12 @@ Currently building out my portfolio with end-to-end data projects using real-wor
 **Data Viz**: Tableau, Power BI, Excel  
 **Languages**: SQL, Python (learning)  
 **Workflow**: Git, Tableau Public  
+## Table of Contents
 
+1. [Zomato Restaurant Insights Dashboard](https://github.com/IVANMURILLO97/Data_projects_TripleTen/tree/main/Zomato_Project)
+2. [Airbnb Market Analysis](https://github.com/IVANMURILLO97/Data_projects_TripleTen/tree/main/Airbnb_Project)
+3. [Superstore Profitability Analysis](https://github.com/IVANMURILLO97/Data_projects_TripleTen/tree/main/Superstore_Project)
+4. [Shopify App Analysis](https://github.com/IVANMURILLO97/Data_projects_TripleTen/tree/main/Shopify_Project)
 ---
 
 ## 📁 Highlight Projects
